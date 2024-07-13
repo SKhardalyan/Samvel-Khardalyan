@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Business Intelligence Analysis.**
 - 👯 I’m looking to collaborate on **outsourcing projects.**
 - 🤝 I’m looking for help with **breaking into tech.**
-- 👨‍💻 All of my projects are available at [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Tiffany-Bergett/Data_projects_TripleTen/)](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/) 
+- 👨‍💻 All of my projects are available at [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Tiffany-Bergett/Data_projects_TripleTen/)](https://github.com/SKhardalyan/Data_projects_TripleTen/blob/main/README.md) 
 - 💬 Ask me about **TripleTen.**
 - 📫 How to reach me **skhardalyan@gmail.com**
 - 📄 Get to know about my experiences via my resume <a href='https://docs.google.com/document/d/1PPgjUzOnooYD6R7WGmYAcnWGG1NLyDUr_OVUJQIGqcM/edit?usp=sharing ' target=_blank><u>here</u>.</a>
