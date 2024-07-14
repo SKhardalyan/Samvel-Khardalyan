@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I enjoy Brazilian Jiu-Jitsu and video games!**
 
 <h3 align="left">Connect with me:
-<a href="https://www.linkedin.com/in/samvel-khardalyan-6a194611b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samvelkhardalyan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samvel-khardalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samvelkhardalyan" height="30" width="40" /></a>
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
